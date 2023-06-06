@@ -1,0 +1,9 @@
+.bg-image{
+    background-image: url(../../../assets/reservation/wood-grain-pattern-gray1x.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg-shdow{
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.25);
+}

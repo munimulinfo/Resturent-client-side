@@ -1,0 +1,11 @@
+.active{
+     color: rgb(238, 159, 14) !important;
+     text-decoration: underline !important;
+     text-underline-offset: 8px !important;
+     text-decoration-thickness: 2px !important;
+     font-size: 24px !important;
+     cursor: pointer !important;
+}
+.altime{
+     cursor: pointer !important;
+}
